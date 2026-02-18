@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 DSA Phase 1 – C++
+#  DSA Phase 1 – C++
 
 Structured practice of core Data Structures & Algorithms using C++.
 
