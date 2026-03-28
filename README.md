@@ -27,13 +27,13 @@ I am solving problems topic-wise to build strong fundamentals in problem solving
 - Arrays  
 - Bit Manipulation  
 - Recursion  
-- Sorting Algorithms  
-- Binary Search  
-- Two Pointer Technique  
-- Strings & Pattern Matching  
-- Hashing  
-- Mathematics  
-- Linked List  
+- Sorting Algorithms.  
+- Binary Search. 
+- Two Pointer Technique.  
+- Strings & Pattern Matching.  
+- Hashing.  
+- Mathematics.  
+- Linked List.  
 
 ---
 
