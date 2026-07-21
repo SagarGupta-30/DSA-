@@ -20,7 +20,7 @@ I am solving problems topic-wise to build strong fundamentals in problem solving
 ---
 
 ## 📚 Topics Covered
-
+------------------------
 - Introduction to DSA  
 - Time Complexity  
 - Problem Solving Techniques  
